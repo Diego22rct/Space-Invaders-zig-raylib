@@ -26,7 +26,7 @@ pub fn main() anyerror!void {
 
         rl.clearBackground(rl.Color.white);
 
-        rl.drawText("Congrats! You created your first window!", 190, 200, 20, rl.Color.light_gray);
+        rl.drawText("Hello World!", 190, 200, 20, rl.Color.light_gray);
         //----------------------------------------------------------------------------------
     }
 }
